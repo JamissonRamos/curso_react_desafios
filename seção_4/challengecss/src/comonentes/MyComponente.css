@@ -1,0 +1,135 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.container{
+
+    /* border: 1px solid red; */
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+    box-sizing: border-box;
+
+}
+.container_card{
+
+    /* border: 1px solid blue; */
+
+    width: 90%;
+    height: 80%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 1em;
+    margin-top: 2rem;
+}
+
+.cards
+{
+    /* border: 1px solid red; */
+
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.card
+{
+    /* border: 1px solid blue; */
+
+    width: 30%;
+    height: 80%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    border-radius: 18px;
+    background-color:#27242C;
+
+    box-shadow: 20px 20px 2px -8px rgba(136, 0, 243, 0.33);
+    padding: 1rem;
+
+}
+
+.first_content
+{
+    width: 100%;
+    height: 70%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+}
+
+.foto
+{
+    width: 100%;
+    height: 100%;
+}
+
+.second_content
+{
+    width: 100%;
+    height: 30%;
+
+    margin-top: 1rem;
+
+    box-sizing: border-box;
+}
+
+.second_content .title
+{
+    color: #ecf0f1;
+    font-size: 1.2em;
+    padding: 1rem;
+}
+
+.datalhes_carro
+{
+    /* border: 1px solid red; */
+
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: .8rem;
+}
+
+.item
+{
+    color: #8800F3;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.valor_item
+{
+    color: #ecf0f1;
+    font: 1em;
+
+    margin-left: .3rem;
+}
+

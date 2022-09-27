@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Roboto', sans-serif;
+
+  background-color: #181719;
+
+      /* cores */
+      /* --cor-blue-800: #27242C;
+      --cor-blue-700: #FFFFFF;
+      --cor-blue-600: #F3F3F9;
+      --cor-lilac-800: #6D40DB;
+      --cor-lilac-700: #8800F3;
+      --cor-lilac-600: rgba(136, 0, 243, 0.33);
+      --cor-white-800: #fcf8fa;
+      --cor-white-700: #ecf0f1;
+      
+  
+  
+      /* --cor-bg-12: #8800F3; */
+      /* --cor-bg-13: rgba(136, 0, 243, 0.33); */
+  
+      /* sombra */
+      /* --shadow--800: 0px 4px 4px rgba(0, 0, 0, 0.25); background: #D9D9D9; */
+      /* --shadow--700: 8px 8px 12px rgba(0, 0, 0, 0.3); background: #D9D9D9; */
+      /* --shadow--600: 0 5px 10px rgba(0, 0, 0, 0.4); */
+}
+
+code {
+  font-family: 'Roboto';
+}
